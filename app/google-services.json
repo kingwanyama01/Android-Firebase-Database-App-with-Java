@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280741073940",
+    "firebase_url": "https://accelerator-fb-class-projo.firebaseio.com",
+    "project_id": "accelerator-fb-class-projo",
+    "storage_bucket": "accelerator-fb-class-projo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280741073940:android:2e9f92d6eabfe87feac301",
+        "android_client_info": {
+          "package_name": "com.king.myacceleratorfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280741073940-i8mueetq8knqc3jma9behpuectgiliu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDor3OhZfUtJasW7dDjpl9CSixbnMdk6S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280741073940-i8mueetq8knqc3jma9behpuectgiliu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
